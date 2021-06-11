@@ -25,9 +25,9 @@ export const homeObjTwo = {
 }
 
 export const homeObjThree = {
-    lightBg: false,
-    lightText: true,
-    lightTextDesc: true,
+    lightBg: true,
+    lightText: false,
+    lightTextDesc: false,
     topLine: 'Easy Setup',
     headline: 'Super fast and simple onboarding process',
     description: 'Get everything setup and running in less than 10 minutes. ALl you need to do is add your information and youre ready to go',
@@ -38,9 +38,9 @@ export const homeObjThree = {
 }
 
 export const homeObjFour = {
-    lightBg: false,
-    lightText: true,
-    lightTextDesc: true,
+    lightBg: true,
+    lightText: false,
+    lightTextDesc: false,
     topLine: 'Data Analytics',
     headline: 'Every transaction is stored on our secure cloud database',
     description: 'Never have to worry again about sent receipts. We store your data so you can access it anytime',
